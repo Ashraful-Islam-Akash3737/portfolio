@@ -132,6 +132,7 @@ main section {
     justify-content: space-around;
     text-align: center;
     background-color: #e8e6e6;
+    border-radius: 10px;
 }
 
 .what-i-do-description {
